@@ -13,10 +13,10 @@ Siempre busco soluciones innovadoras y eficientes, combinando mi experiencia té
 ## 🚀 Habilidades y Tecnologías
 - ⚙️ **Sistemas:** Linux, Windows Server, Virtualización
 - 🌐 **Redes:** Configuración de routers y switches, seguridad en redes, VPNs
-- 💻 **Programación:** Python, Bash, PowerShell, JavaScript
+- 💻 **Programación:** Python, Bash, PowerShell
 - 🔧 **DevOps y Automatización:** Docker, Ansible, CI/CD
-- 📡 **Infraestructura y Cloud:** AWS, Azure, Kubernetes
-- 🛠️ **Herramientas y Tecnologías:** Git, GitHub, Terraform, Monitoring Tools
+- 📡 **Infraestructura y Cloud:** Proxmox, VMware, Hyper-v
+- 🛠️ **Herramientas y Tecnologías:** Git, GitHub, Monitoring Tools, Veeam, Acronis
 
 ## 📫 Conéctate conmigo
 Si te interesa hablar de tecnología, colaborar en proyectos o simplemente intercambiar ideas, no dudes en contactarme.
